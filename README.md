@@ -11,18 +11,6 @@ The **Automobile Manufacturing & Sales Dashboard** is an interactive Power BI pr
 
 ---
 
-## 📊 Dashboard Preview
-
-### Executive Dashboard
-
-![Dashboard](Images/Dashboard-Overview.png)
-
-### Top 10 Cars Dashboard
-
-![Dashboard](Images/Top-10-Cars.png)
-
----
-
 ## 🎯 Objectives
 
 - Analyze automobile sales performance
